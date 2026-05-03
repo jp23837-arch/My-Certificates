@@ -14,3 +14,4 @@ Certified in **Data Literacy**, with strong abilities in data interpretation, an
 Completed both **Generative AI – Beginner and Generative AI – Intermediate certifications**, demonstrating practical understanding of AI concepts, prompt engineering, and workflow augmentation through Microsoft Copilot and related tools.
 
 Demonstrated capability to integrate Lean, Six Sigma, Agile, and Data Analytics methodologies to drive measurable business impact and continuous improvement initiatives.
+I'm pleased to share that I have successfully completed the **Agentic AI Intermediate** and **AI Fluent training programs** — both trained and tested — with all deliverables published to GitHub.
